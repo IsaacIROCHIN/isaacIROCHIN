@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**IsaacIROCHIN/isaacIROCHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h1 align="center"> OI! ESTE É MEU PERFIL! <h1>
 
-Here are some ideas to get you started:
+ 
+ <div>
+ 
+  ![IsaacIROCHIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacIROCHIN&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacIROCHIN&layout=compact&theme=radical)](https://github.com/isaacIROCHIN/github-readme-stats)
+  
+ </div>
+ 
+ <div>
+ 
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
