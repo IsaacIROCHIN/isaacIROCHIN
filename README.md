@@ -21,9 +21,13 @@
  </div>
 
 <div>
+
   <img hight="200" width="200" align="right" src="https://user-images.githubusercontent.com/110568596/188228399-59b652b9-38ba-41f7-8db5-fc07a7482eb7.gif" />
+  
 </div>
 
 <div align="center">
+
   ![Snake animation](https://github.com/isaacIROCHIN/isaacIROCHIN/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
